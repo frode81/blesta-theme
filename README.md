@@ -1,2 +1,2 @@
 # blesta-theme
- Bootstrap template utk Blesta
+ Bootstrap template Blesta untuk Client Panel @ertomedia dan Customer Portal milik CircleHosting.com
